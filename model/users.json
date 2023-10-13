@@ -1,0 +1,20 @@
+[
+  {
+    "username": "Deborah",
+    "roles": {
+      "User": 2001
+    },
+    "password": "$2b$10$L6TX.2h/TxPc4pPuUu1z/.zdw4D.u9tqZQWpuEuAewCtXHlaeuMHq",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkRlYm9yYWgiLCJpYXQiOjE2OTcxMzE0MDAsImV4cCI6MTY5NzIxNzgwMH0.3iWXy4neVc4jxdycOmKeKPm-msBG2Tm7ubkdY8MyWkM"
+  },
+  {
+    "username": "Alfred",
+    "roles": {
+      "Admin": 5350,
+      "Editor": 1984,
+      "User": 2001
+    },
+    "password": "$2b$10$TrZW/xzsLECh6Hoa0guaDOV8mlQSsCnECXkGRu4ABb5gcIIjnM2.2",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFsZnJlZCIsImlhdCI6MTY5NzEzMTUwMywiZXhwIjoxNjk3MjE3OTAzfQ.rahAVvOrhcfLEjaVSDiMJJ6OCcuhr1AExb_u_U3fAVc"
+  }
+]

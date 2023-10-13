@@ -1,0 +1,2 @@
+20231011	23:12:51	a9688b75-a7e2-4483-9a86-9fbb7951a00b	Error: Not allowed by CORS
+20231012	18:21:55	141cbf4f-300d-43af-a09c-869a9246f84d	TypeError: authHeader?.startWith is not a function
