@@ -24,6 +24,7 @@ app.use(logger);
 app.use(credentials)
 
 // cross origin resource sharing Third-party
+
 app.use(cors(corsOptions));
 
 // built-in middleware to handle urlencoded data
@@ -42,10 +43,12 @@ app.use (express.static(path.join(__dirname, '/public')))
 
 // routes
 app.use('/', require('./routes/root'));
+app.use('/news', require('./routes/api/news')); 
 app.use('/register', require('./routes/register'));
 app.use('/auth', require('./routes/auth'));
 app.use('/refresh', require('./routes/refresh'));
 app.use('/logout', require('./routes/logout'));
+
 
 app.use(verifyJWT);
 app.use('/employees', require('./routes/api/employees'));

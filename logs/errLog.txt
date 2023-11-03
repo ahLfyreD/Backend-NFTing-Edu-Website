@@ -1,2 +1,55 @@
-20231011	23:12:51	a9688b75-a7e2-4483-9a86-9fbb7951a00b	Error: Not allowed by CORS
-20231012	18:21:55	141cbf4f-300d-43af-a09c-869a9246f84d	TypeError: authHeader?.startWith is not a function
+20231017	01:10:43	b9c67712-90bd-47c7-acad-e3a00e6ca41b	Error: Not allowed by CORS
+20231017	01:10:43	3b6a7641-0fb6-41fd-b1b7-aebfe1b3c229	Error: Not allowed by CORS
+20231017	01:13:13	6ceb5538-0366-43a0-a006-9b71d982ba87	Error: Not allowed by CORS
+20231017	01:13:13	91491ac0-2101-4902-aa85-1047ea97c5b1	Error: Not allowed by CORS
+20231017	01:23:55	76c8da35-2cbd-4495-b45c-9580920dfa47	Error: Not allowed by CORS
+20231017	01:23:56	9f14352f-ac98-4b62-b4cd-721009101060	Error: Not allowed by CORS
+20231017	01:24:16	f653561f-de4a-4286-8065-62ac8e29ad7a	Error: Not allowed by CORS
+20231017	01:24:16	4319385e-78fc-4e60-88a3-fbe8586cc03b	Error: Not allowed by CORS
+20231017	01:25:07	0477d300-21af-4e88-811e-bb244f14014c	Error: Not allowed by CORS
+20231017	01:25:07	735ce85e-5704-4ecf-ac58-5a2a0bd1307d	Error: Not allowed by CORS
+20231017	01:27:17	6c2bfb7f-9193-446f-8085-7055a2b063c8	Error: Not allowed by CORS
+20231017	01:27:17	32d63b8c-50f9-4442-b823-dceb3d1b8e65	Error: Not allowed by CORS
+20231017	01:27:56	2e143620-de85-449f-8ee2-7fa959f48cd2	Error: Not allowed by CORS
+20231017	01:27:57	a0733e5e-9481-4403-bcba-324b97933a81	Error: Not allowed by CORS
+20231017	01:31:21	dbb85baf-b67b-42cc-80d5-cd221d3a849b	Error: Not allowed by CORS
+20231017	01:31:21	9e0ad1e3-2288-4fdf-8973-ee7ee596e77a	Error: Not allowed by CORS
+20231017	01:31:23	21e8b9af-2a73-4d23-9056-071f765a094c	Error: Not allowed by CORS
+20231017	01:31:23	79357b29-ca49-47a9-a17a-f8b01a60e649	Error: Not allowed by CORS
+20231017	01:32:07	bfae6479-4034-48f5-a6c2-692bf560b9b4	Error: Not allowed by CORS
+20231017	01:32:07	41013581-c0f6-42a5-bbda-0e445e3ddf2c	Error: Not allowed by CORS
+20231017	01:32:35	1334a383-aad1-42e3-82c0-ddd92b9733d2	Error: Not allowed by CORS
+20231017	01:32:35	2afb122a-93b3-43d5-bd66-cdd64d0f8e2f	Error: Not allowed by CORS
+20231017	01:34:31	e84916c7-bff5-4a4b-802a-23c76e3f4a02	Error: Not allowed by CORS
+20231017	01:34:31	8a880af5-fc91-497e-9182-1f5dfa4819ca	Error: Not allowed by CORS
+20231017	01:39:29	7ebf15af-628a-4901-87d3-b382e1d5530d	Error: Not allowed by CORS
+20231017	01:39:44	290ecc52-3d62-4739-a513-9eeb597bfea5	Error: Not allowed by CORS
+20231017	01:39:44	f32f796a-121e-493e-8298-6e8a2e6958a3	Error: Not allowed by CORS
+20231017	02:05:56	aaa67c23-7d4b-4b1d-b7d3-32e0d203321a	Error: Not allowed by CORS
+20231017	02:05:58	3cefb59b-7c5e-497f-97db-243d060f8ff9	Error: Not allowed by CORS
+20231017	02:14:45	c1e86b0a-77bf-49c3-a075-45b0c4a0586e	Error: Not allowed by CORS
+20231017	02:14:56	c98292c0-0d90-4de9-b1e5-9f048d025f93	Error: Not allowed by CORS
+20231017	02:15:28	4e12338b-b28d-4473-a1d7-6087806b4778	Error: Not allowed by CORS
+20231017	02:23:22	36ef0aec-7e16-4a6d-94d9-53244095f16a	Error: Not allowed by CORS
+20231017	13:07:57	a27cd276-aece-4351-bd91-1d73d49bd85a	SyntaxError: Unexpected token " in JSON at position 0
+20231017	13:10:44	075baf10-c3e8-4d52-a0f8-cd6e84a0bc58	SyntaxError: Unexpected token " in JSON at position 0
+20231017	13:11:01	b6e4ccf4-77c5-4952-bd52-d6523ddfe09c	SyntaxError: Unexpected token " in JSON at position 0
+20231017	13:15:39	65c474c5-3313-4d53-86b0-64d5e6bf35d8	SyntaxError: Unexpected token " in JSON at position 0
+20231017	13:17:20	3606ff68-0a88-4c0b-81a0-06a2ff033e5b	Error: Not allowed by CORS
+20231017	13:17:20	81e63be8-f43b-4af8-98a4-ed2f27dc2a29	Error: Not allowed by CORS
+20231017	13:27:16	542c06eb-ce2f-4521-b5e1-c6fa90221a68	Error: Not allowed by CORS
+20231017	13:27:16	f4c1ca74-a02d-47c5-9bb3-044c0b114450	Error: Not allowed by CORS
+20231017	14:04:42	d001c8a1-7bcf-43d1-b3ef-e8bd0fd92469	Error: Not allowed by CORS
+20231017	14:19:19	009c5ac6-1f86-41c8-b245-c9396f2bade6	Error: Not allowed by CORS
+20231017	14:19:19	ba2fa12e-c5b8-4c9f-b4ac-ed615e94955f	Error: Not allowed by CORS
+20231018	12:03:34	47fba378-e982-4890-ae0f-90d3e28d7fe0	SyntaxError: Unexpected token " in JSON at position 0
+20231018	13:04:45	e2cde93c-a711-4174-98ae-d81da8a3bf90	SyntaxError: Unexpected token " in JSON at position 0
+20231018	13:07:03	5e9d084f-7c96-498b-b753-6cb5816f1edf	SyntaxError: Unexpected token " in JSON at position 0
+20231019	01:59:36	9fa0c892-c17a-4169-bf4a-ca0a81289cba	SyntaxError: Unexpected token " in JSON at position 0
+20231019	02:01:47	8ea42be1-61e7-4575-ab7c-d6ce45193bbd	SyntaxError: Unexpected token " in JSON at position 0
+20231019	02:06:21	26750614-032e-4181-b786-f859f95f912f	SyntaxError: Unexpected token " in JSON at position 0
+20231030	16:30:37	90250b39-b576-4e71-9257-aadd46952bff	PayloadTooLargeError: request entity too large
+20231030	16:34:54	8d15ddf1-33dc-43c0-8697-8f2e34937849	PayloadTooLargeError: request entity too large
+20231030	16:46:05	e15a2ffa-9573-46fe-ad5d-29658d048773	PayloadTooLargeError: request entity too large
+20231102	10:08:29	5a0a04de-513b-4eff-84fe-9b480a661c40	PayloadTooLargeError: request entity too large
+20231103	14:55:18	4fc8944f-6e1b-47db-9e7f-3330219864e4	PayloadTooLargeError: request entity too large

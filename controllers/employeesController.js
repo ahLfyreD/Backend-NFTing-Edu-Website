@@ -8,7 +8,7 @@ const getAllEmployees = async (req, res) => {
 
 const createNewEmployee = async (req, res) => {
     if (!req?.body?.firstname || !req?.body?.lastname) {
-        return res.status(400).json({ 'message': 'Fisrt and Last names are required'})
+        return res.status(400).json({ 'message': 'First and Last names are required'})
     }
    
     try {
