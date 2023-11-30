@@ -44,6 +44,8 @@ app.use (express.static(path.join(__dirname, '/public')))
 // routes
 app.use('/', require('./routes/root'));
 app.use('/news', require('./routes/api/news')); 
+app.use('/course', require('./routes/api/course'));
+app.use('/article', require('./routes/api/article'));
 app.use('/register', require('./routes/register'));
 app.use('/auth', require('./routes/auth'));
 app.use('/refresh', require('./routes/refresh'));

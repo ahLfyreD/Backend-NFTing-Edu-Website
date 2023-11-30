@@ -49,7 +49,6 @@ const deleteNewsData = async (req, res) => {
     }
     const result = await deletedNews.deleteOne({ _id: req.params.id});
     res.json(result);
-    // res.json({"success": "Created"})
 }
 
 const getNewsData = async (req, res) => {
