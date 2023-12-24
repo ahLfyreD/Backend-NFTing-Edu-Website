@@ -14,7 +14,6 @@ const createCourse = async (req, res) => {
         const result = await CourseSchema.create({
             title: title,
             banner: banner,
-            status: status,
             description: description,
             dateCreated: dateCreated,
             dateUpdated: dateUpdated
@@ -25,7 +24,7 @@ const createCourse = async (req, res) => {
     }
 }
 
-const updateCourse = async (req, res) => {
+const updateCourse = async (req, res) => { 
     if(!req?.params?.id) {
         res.sendStatus(400).json({ 'message': "ID parameter is required" })
     }
@@ -36,8 +35,8 @@ const updateCourse = async (req, res) => {
     }
     if (req.body?.title) updateData.title = req.body.title;
     if (req.body?.banner) updateData.banner = req.body.banner;
-    if (req.body?.status) updateData.status = req.body.status;
     if (req.body?.description) updateData.description = req.body.description;
+    const result = await updateData.save();
     res.json(result);
 }
 

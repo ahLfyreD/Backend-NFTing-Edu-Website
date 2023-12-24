@@ -15,13 +15,22 @@ const articleSchema = new Schema({
         ref: 'Course'
     },
     // This is the difficulty levels for beg..med and pro
-    diffLevel: String,
+    level: {
+        enum: ['beginner', 'medium', 'expert'],
+        type: String,
+        required: [true, 'please provide a difficulty level']
+    },
     // This is for the publish and draft
-    status: String,
+    status: {
+        enum: ['publish', 'draft'],
+        type: String,
+        required: [true, 'please provide a status']
+    },
     duration: Number,
+    description: String,
     content: String,
     dateCreated: {type: Date, default: Date.now},
-    dateUpdated: Date   
+    dateUpdated: {type: Date, default: Date.now}    
 });
 
 module.exports = mongoose.model('Article', articleSchema);
