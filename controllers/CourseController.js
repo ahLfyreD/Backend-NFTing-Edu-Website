@@ -7,8 +7,8 @@ const getAllCourses = async (req, res) => {
 }
 
 const createCourse = async (req, res) => {
-    const {title, banner, status, description, dateCreated, dateUpdated} = req.body
-    if (!title || !banner || !status || !description)  return res.status(400).json({ 'message': 'All fields required.' });
+    const {title, banner, description, dateCreated, dateUpdated} = req.body
+    if (!title || !banner || !description)  return res.status(400).json({ 'message': 'All fields required.' });
 
     try {
         const result = await CourseSchema.create({

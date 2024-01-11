@@ -73,6 +73,7 @@ const deleteArticle = async (req, res) => {
 }
 
 const getArticle = async (req, res) => {
+    
     if (!req?.params?.id) return res.status(404).json({'message': "Data ID is required." });
     const article = await Article.findOne({ _id: req.params.id }).exec();
     if (!article) {
